@@ -23,7 +23,7 @@
 
 ## Introduction
 
-![UI](.\lib\pic.png)
+![UI](.\lib\1.png)
 
 **Oh-My-Port** is a portable serial terminal application built with Python (`PyQt6` + `pyserial`).  
 It is designed for embedded developers who need to quickly read from and write to microcontrollers over UART — without opening Visual Studio, STM32CubeIDE, or any other heavy IDE.
