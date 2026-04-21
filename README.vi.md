@@ -23,7 +23,7 @@
 
 ## Giới thiệu
 
-![UI](.\lib\1.png)
+![UI](Lib\1.png)
 
 **Oh-My-Port** là một ứng dụng terminal cổng nối tiếp portable, được xây dựng bằng Python (`PyQt6` + `pyserial`).  
 Phần mềm được thiết kế dành cho các lập trình viên nhúng, cho phép đọc và ghi UART tới vi điều khiển một cách nhanh chóng — không cần mở Visual Studio, STM32CubeIDE, hay bất kỳ IDE nặng nào khác.
