@@ -83,7 +83,7 @@ sudo apt-get install -y \
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/oh-my-port.git
+git clone https://github.com/NhatDang47/oh-my-port.git
 cd oh-my-port
 
 # 2. Install Python dependencies
@@ -205,4 +205,3 @@ uv run src/main.py
 ---
 
 *Built with ❤️ for the embedded systems community.*
-# oh-my-port
